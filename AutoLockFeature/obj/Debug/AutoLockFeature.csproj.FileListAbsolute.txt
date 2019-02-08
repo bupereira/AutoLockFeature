@@ -1,0 +1,10 @@
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\bin\Debug\AutoLockFeature.exe.config
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\bin\Debug\AutoLockFeature.exe
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\bin\Debug\AutoLockFeature.pdb
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.csprojAssemblyReference.cache
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.Form1.resources
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.Properties.Resources.resources
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.csproj.GenerateResource.cache
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.exe
+C:\Users\Murilo\source\repos\AutoLockFeature\AutoLockFeature\obj\Debug\AutoLockFeature.pdb
